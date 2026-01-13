@@ -4,7 +4,7 @@ go 1.25
 
 require (
 	github.com/joho/godotenv v1.5.1
-	github.com/openai/openai-go/v3 v3.15.0
+	github.com/openai/openai-go/v3 v3.16.0
 )
 
 require (
