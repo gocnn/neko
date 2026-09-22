@@ -1,14 +1,15 @@
 module github.com/gocnn/neko
 
-go 1.25
+go 1.25.0
 
 require (
 	github.com/joho/godotenv v1.5.1
-	github.com/openai/openai-go/v3 v3.16.0
+	github.com/openai/openai-go/v3 v3.63.1
 )
 
 require (
-	github.com/tidwall/gjson v1.18.0 // indirect
+	github.com/coder/websocket v1.8.15 // indirect
+	github.com/tidwall/gjson v1.19.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tidwall/sjson v1.2.5 // indirect
